@@ -7,7 +7,7 @@ const WyzeLock = require('./accessories/WyzeLock');
 const WyzeContactSensor = require('./accessories/WyzeContactSensor');
 const WyzeMotionSensor = require('./accessories/WyzeMotionSensor');
 
-const PLUGIN_NAME = 'homebridge-wyze-connected-home';
+const PLUGIN_NAME = 'homebridge-wyze-connected-home-op';
 const PLATFORM_NAME = 'WyzeConnectedHome';
 
 const DEFAULT_REFRESH_INTERVAL = 10000;
